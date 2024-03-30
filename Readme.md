@@ -15,10 +15,10 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/dikshavishwakarma03/a.git
+git clone https://github.com/dikshavishwakarma03/clip-board-landing-page.git
 ```
 2. Navigate to the project directory:
 ```
-cd alpha
+cd clip-board-landing-page
 ```
 3. Open the index.html file in your preferred web browser.
